@@ -1,4 +1,4 @@
-### Hey Hi Hello!  I'm Brian Wardwell. I'm a Software Engineer from the Bay Area in California.
+### Hey Hi Hello!  I'm Brian Wardwell. I'm a Technical Escalations Enginner from the Bay Area in California.
 I have 15 years experience in Sales and Account Management but I have decided to follow my passion for tech, couldn't fight it any longer! I completed an 8 month intensive full-time software engineering program at Lambda School.  I'm officially looking to contribute to a team of web-developers!!
 ### Connect with me:
 <a href='https://www.linkedin.com/in/brianwardwell/'>
